@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Grid, Container, List, Header, Image, Menu, Divider, Statistic } from 'semantic-ui-react';
+import { Grid, Button, Container, List, Header, Image, Menu, Divider, Statistic } from 'semantic-ui-react';
 import './App.scss';
 import './styles/carriage.scss';
 
@@ -37,9 +37,16 @@ class Carriage extends React.PureComponent<ICarriageProps> {
                 <List.Item>Dispatcher dashboard and service analytics</List.Item>
               </List>
               <List className="text-align-right white-text">
-                <List.Item>Featured project in BOOM 2019</List.Item>
-                <List.Item>2019 Big Idea Competition Nonprofit Finalist</List.Item>
+                <List.Item as="a" href="https://www.cis.cornell.edu/boom-2019-showcasing-over-40-exciting-student-tech-projects"
+                  target="_blank" className="white-link">Featured project in BOOM 2019</List.Item>
+                <List.Item as="a" href="https://www.facebook.com/lifechanginglabs/posts/2403040376393825"
+                  target="_blank" className="white-link">2019 Big Idea Competition Nonprofit Finalist</List.Item>
               </List>
+              <p className="text-align-right">
+                <Button color="black" content="View source on GitHub" icon="github"
+                  labelPosition="left" className="text-align-right" as="a" target="_blank"
+                  href="https://github.com/maxmchu/carriage-web" />
+              </p>
             </Grid.Column>
           </Grid.Row>
           <Grid.Row className="row-top-padding">
