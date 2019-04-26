@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/carriage-gh-pages/static/css/main.3e545749.chunk.css",
-    "main.js": "/carriage-gh-pages/static/js/main.66247983.chunk.js",
-    "main.js.map": "/carriage-gh-pages/static/js/main.66247983.chunk.js.map",
+    "main.css": "/carriage-gh-pages/static/css/main.f6504d16.chunk.css",
+    "main.js": "/carriage-gh-pages/static/js/main.223dd030.chunk.js",
+    "main.js.map": "/carriage-gh-pages/static/js/main.223dd030.chunk.js.map",
     "runtime~main.js": "/carriage-gh-pages/static/js/runtime~main.ba37d991.js",
     "runtime~main.js.map": "/carriage-gh-pages/static/js/runtime~main.ba37d991.js.map",
-    "static/js/2.b41502e9.chunk.js": "/carriage-gh-pages/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/carriage-gh-pages/static/js/2.b41502e9.chunk.js.map",
+    "static/css/2.e2e406d1.chunk.css": "/carriage-gh-pages/static/css/2.e2e406d1.chunk.css",
+    "static/js/2.1cea5a27.chunk.js": "/carriage-gh-pages/static/js/2.1cea5a27.chunk.js",
+    "static/js/2.1cea5a27.chunk.js.map": "/carriage-gh-pages/static/js/2.1cea5a27.chunk.js.map",
     "index.html": "/carriage-gh-pages/index.html",
-    "precache-manifest.2c1a4a970b27fb8735b84e5eff399145.js": "/carriage-gh-pages/precache-manifest.2c1a4a970b27fb8735b84e5eff399145.js",
+    "precache-manifest.627ddfaa7a7a18fbc271587ff13b096f.js": "/carriage-gh-pages/precache-manifest.627ddfaa7a7a18fbc271587ff13b096f.js",
     "service-worker.js": "/carriage-gh-pages/service-worker.js",
-    "static/css/main.3e545749.chunk.css.map": "/carriage-gh-pages/static/css/main.3e545749.chunk.css.map",
-    "static/media/logo.svg": "/carriage-gh-pages/static/media/logo.5d5d9eef.svg"
+    "static/css/2.e2e406d1.chunk.css.map": "/carriage-gh-pages/static/css/2.e2e406d1.chunk.css.map",
+    "static/css/main.f6504d16.chunk.css.map": "/carriage-gh-pages/static/css/main.f6504d16.chunk.css.map",
+    "static/media/semantic.min.css": "/carriage-gh-pages/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/carriage-logo.png": "/carriage-gh-pages/static/media/carriage-logo.523fbdc3.png",
+    "static/media/mockups.png": "/carriage-gh-pages/static/media/mockups.83efec7c.png",
+    "static/media/retro-screen.png": "/carriage-gh-pages/static/media/retro-screen.0efaed59.png",
+    "static/media/work.jpg": "/carriage-gh-pages/static/media/work.b0777cbd.jpg"
   }
 }
