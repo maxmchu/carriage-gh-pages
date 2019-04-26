@@ -1,7 +1,7 @@
 {
   "name": "carriage-gh-pages",
   "version": "0.1.0",
-  "homepage": "https://maxmchu.github.io/carriage-gh-pages",
+  "homepage": "https://maxmchu.github.io/",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
