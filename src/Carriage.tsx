@@ -156,8 +156,8 @@ class Carriage extends React.PureComponent<ICarriageProps> {
                 Interested in working on Carriage?
               </Header>
               <p className="carriage-content">
-                Carriage is still under development,
-                and we need all the help we can get! Reach out to us!
+                Carriage is now being further developed by the
+                <a href="https://cornelldti.org" target="_blank"> Cornell Design &amp; Tech Initiative (DTI). </a>
               </p>
 
             </Grid.Column>
